@@ -1,0 +1,100 @@
+.header {
+  background: rgb(68, 149, 92);
+  height: 100px;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+.main_section {
+  background: rgb(23, 168, 226);
+  height: 1000px;
+  overflow: hidden;
+}
+.left {
+  background: rgb(1, 40, 77);
+  height: 1000px;
+  width: 30%;
+  float: left;
+}
+.news1 {
+  background: rgb(71, 60, 8);
+  height: 200px;
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
+.news2 {
+  background: rgb(73, 129, 62);
+  height: 200px;
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
+.news3 {
+  background: rgb(59, 53, 114);
+  height: 200px;
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
+.news4 {
+  background: rgb(151, 97, 122);
+  height: 200px;
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
+.news5 {
+  background: rgb(184, 152, 111);
+  height: 200px;
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
+.middle {
+  background: rgb(88, 235, 95);
+  height: 1000px;
+  width: 40%;
+  float: left;
+}
+.article1 {
+  background: rgb(61, 58, 55);
+  height: 250px;
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
+.article2 {
+  background: rgb(179, 89, 89);
+  height: 250px;
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
+.article3 {
+  background: rgb(156, 156, 156);
+  height: 250px;
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
+.article4 {
+  background: rgb(0, 0, 0);
+  height: 250px;
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
+.right {
+  background: rgb(168, 127, 38);
+  height: 1000px;
+  width: 30%;
+  float: right;
+}
+.footer {
+  background: rgb(85, 4, 58);
+  height: 90px;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
